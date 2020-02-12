@@ -47,6 +47,8 @@ public class MyIntentService extends IntentService {
 
         //Get the intent and its data and start the long-running background task
         //Uri uri = intent.getData(); //TODO: Use this code if not filtering for params
+
+        //Unpack the data from the intent
         RequestPackage requestPackage = intent.getParcelableExtra(REQUEST_PACKAGE);
         String userName = intent.getStringExtra(MY_USER_NAME);
         String password = intent.getStringExtra(MY_PASSWORD);
