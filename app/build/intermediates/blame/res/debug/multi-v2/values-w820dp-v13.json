@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/louiswollenberger/Desktop/Exercise Files/Ch02/02_04/IntentService/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/Users/louiswollenberger/Desktop/IntentService/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/louiswollenberger/Desktop/Exercise Files/Ch02/02_04/IntentService/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/Users/louiswollenberger/Desktop/IntentService/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

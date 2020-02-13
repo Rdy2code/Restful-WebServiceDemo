@@ -35,6 +35,11 @@
         <service
             android:name="com.example.android.restful.services.MyIntentService"
             android:exported="false" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.android.restful.com.squareup.picasso"
+            android:exported="false" />
     </application>
 
 </manifest>

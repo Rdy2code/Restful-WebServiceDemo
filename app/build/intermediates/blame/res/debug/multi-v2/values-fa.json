@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/louiswollenberger/Desktop/Exercise Files/Ch02/02_04/IntentService/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+            "outputFile": "/Users/louiswollenberger/Desktop/IntentService/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
                     "source": "/Users/louiswollenberger/.gradle/caches/transforms-2/files-2.1/6119d746697059b7e1b74aab4d181f56/appcompat-1.1.0/res/values-fa/values-fa.xml",
